@@ -10,4 +10,5 @@ MTech student in AI Engineering, interested in data engineering and machine lear
 **Tech:** [e.g. Kafka · Spark Streaming · Python · PostgreSQL · Docker]
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/rohan-mangaonkar-0b7855269/) · [Email](mailto:rohanmangaonkar6166@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rohan-mangaonkar-0b7855269](https://www.linkedin.com/in/rohan-mangaonkar-0b7855269/)
+- 📧 Email: [rohanmangaonkar6166@gmail.com](mailto:rohanmangaonkar6166@gmail.com)
